@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="marquee-track animate-marquee" style={{ animationDirection: "reverse" }}>
           {Array(10).fill(null).map((_, i) => (
             <span key={i} className="text-black font-black text-[10px] tracking-[0.3em] whitespace-nowrap mx-6">
-              ALEJANDRO SEVILLA VÉLEZ ★ BOGOTÁ ★ COLOMBIA ★ 1994—2026 ★
+              MAMÁ, SOY UNA SOMBRA ★ ALEJANDRO SEVILLA VÉLEZ ★ BOGOTÁ ★ COLOMBIA ★ 1994—2026 ★
             </span>
           ))}
         </div>
@@ -19,7 +19,7 @@ export default function Footer() {
           <div>
             <img src="/logos/baal-blanco.png" alt="ENdB" className="h-12 w-auto mb-4" />
             <p className="text-bone-dim text-xs font-bold tracking-widest uppercase">
-              Black Metal Sinfónico<br />Bogotá, Colombia
+              MAMÁ, SOY UNA SOMBRA<br />Black Metal Sinfónico · Bogotá, Colombia
             </p>
           </div>
 
@@ -68,7 +68,7 @@ export default function Footer() {
 
         <div className="mt-12 pt-6 border-t-2 border-void-mid text-center">
           <p className="text-bone-dim text-[10px] font-bold tracking-[0.3em] uppercase">
-            © 2026 En Nombre de Baal · La resistencia no es romántica — es terca
+            © 2026 Mamá, soy una sombra · La resistencia no es romántica — es terca
           </p>
         </div>
       </div>

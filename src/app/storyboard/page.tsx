@@ -1,7 +1,7 @@
 import { storyboard, actTitles } from "@/data/storyboard";
 import type { Metadata } from "next";
 
-export const metadata: Metadata = { title: "Storyboard — En Nombre de Baal" };
+export const metadata: Metadata = { title: "Storyboard — Mamá, soy una sombra" };
 
 const frameBorderColors = [
   "border-crimson hover:shadow-[6px_6px_0_#E63946]",

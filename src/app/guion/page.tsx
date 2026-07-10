@@ -2,7 +2,7 @@ import { actos } from "@/data/guion";
 import Link from "next/link";
 import type { Metadata } from "next";
 
-export const metadata: Metadata = { title: "Guion — En Nombre de Baal" };
+export const metadata: Metadata = { title: "Guion — Mamá, soy una sombra" };
 
 const actColors = [
   { border: "border-crimson", text: "text-crimson", bg: "bg-crimson/10", chip: "chip-crimson" },

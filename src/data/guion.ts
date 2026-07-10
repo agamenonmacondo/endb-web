@@ -68,7 +68,7 @@ export const actos: Acto[] = [
       { num: "22", title: "El Estudio", duration: "0:35", act: 4, description: "Grabación presente. DAW, monitores, micrófono. Respirar antes de cantar.", music: "Si No Vuelvo (2022) — vocal estudio" },
       { num: "23", title: "El Disco Sonando", duration: "0:30", act: 4, description: "Cuarto oscuro. Guitarra en la esquina. Disco sonando. Ventana con luces de ciudad.", music: "Chie Umbra (2026) — volumen bajo", videoRefs: ["Chie Umbra (7uQvfM4pwpA)"] },
       { num: "24", title: "Final: Como Cuando Era Niño", duration: "0:55", act: 4, description: "Alejandro solo tocando guitarra en la oscuridad. Cámara se aleja. Ghost image del niño. Luz se encoge.", music: "Guitarra sola — audio original" },
-      { num: "25", title: "Créditos", duration: "—", act: 4, description: "Negro. Texto: 'EN NOMBRE DE BAAL'. Audio de ensayo: toma falsa + entrada de banda.", music: "Audio de ensayo" },
+      { num: "25", title: "Créditos", duration: "—", act: 4, description: "Negro. Texto: 'MAMÁ, SOY UNA SOMBRA'. Audio de ensayo: toma falsa + entrada de banda.", music: "Audio de ensayo" },
     ],
   },
 ];

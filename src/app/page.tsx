@@ -42,13 +42,13 @@ export default function Home() {
             className="heading-brutal text-5xl md:text-8xl text-bone mb-4 animate-brutal-in"
             style={{ animationDelay: "0.1s" }}
           >
-            EN NOMBRE
+            MAMÁ,
             <br />
-            <span className="text-crimson">DE BAAL</span>
+            <span className="text-crimson">SOY UNA SOMBRA</span>
           </h1>
 
           <p className="text-lg md:text-xl text-bone-dim mb-2 animate-brutal-in" style={{ animationDelay: "0.2s" }}>
-            Un documental sobre Alejandro Sevilla Vélez
+            Un documental sobre Alejandro Sevilla Vélez y En Nombre de Baal
           </p>
 
           <p className="text-xs md:text-sm font-black tracking-[0.4em] mb-12 animate-brutal-in" style={{ animationDelay: "0.3s" }}>
@@ -95,7 +95,7 @@ export default function Home() {
         <h2 className="heading-acid text-crimson text-sm mb-8">SINOPSIS</h2>
         <div className="space-y-6 text-lg md:text-xl leading-relaxed">
           <p className="text-bone">
-            Seis discos en doce años. <span className="text-crimson font-black">Cuatro oyentes mensuales en Spotify.</span> Treinta y dos años de carrera musical en la escena underground de Bogotá. Esta es la historia de Alejandro Sevilla Vélez, guitarrista y fundador de En Nombre de Baal — <span className="text-magenta font-black">black metal sinfónico colombiano.</span>
+            Seis discos en doce años. <span className="text-crimson font-black">Cuatro oyentes mensuales en Spotify.</span> Treinta y dos años de carrera musical en la escena underground de Bogotá. Esta es la historia de Alejandro Sevilla Vélez, guitarrista y fundador de En Nombre de Baal — <span className="text-magenta font-black">black metal sinfónico colombiano.</span> Un hombre que le dijo a su madre que era una sombra, y decidió hacer de esa sombra una obra de arte.
           </p>
           <p className="text-bone-dim">
             Desde el niño que quería ser James Hetfield en un barrio de Bogotá en los noventa, pasando por el hardcore punk de <span className="text-orange font-bold">Pitbull HC</span> y <span className="text-orange font-bold">Ataque en Contra</span>, el death metal técnico de <span className="text-violet font-bold">Nonsense Premonition</span>, hasta la evolución a un black metal sinfónico con máscaras rituales. La paradoja de una obra cada vez más ambiciosa frente a una audiencia que no crece.

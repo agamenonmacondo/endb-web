@@ -1,7 +1,7 @@
 import { locaciones } from "@/data/locaciones";
 import type { Metadata } from "next";
 
-export const metadata: Metadata = { title: "Locaciones — En Nombre de Baal" };
+export const metadata: Metadata = { title: "Locaciones — Mamá, soy una sombra" };
 
 const locColors = [
   "border-l-crimson", "border-l-magenta", "border-l-violet", "border-l-cyan",

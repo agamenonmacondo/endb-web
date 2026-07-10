@@ -1,7 +1,7 @@
 import { timeline } from "@/data/timeline";
 import type { Metadata } from "next";
 
-export const metadata: Metadata = { title: "Timeline — En Nombre de Baal" };
+export const metadata: Metadata = { title: "Timeline — Mamá, soy una sombra" };
 
 const typeStyles: Record<string, { chip: string; dot: string; border: string }> = {
   album: { chip: "chip-gold", dot: "bg-gold", border: "border-l-gold" },

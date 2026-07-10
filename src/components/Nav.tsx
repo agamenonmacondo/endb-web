@@ -26,7 +26,7 @@ export default function Nav() {
         <div className="marquee-track animate-marquee">
           {Array(8).fill(null).map((_, i) => (
             <span key={i} className="text-black font-black text-xs tracking-[0.3em] whitespace-nowrap mx-8">
-              EN NOMBRE DE BAAL ★ BLACK METAL SINFÓNICO ★ BOGOTÁ ★ 1994—2026 ★ 6 DISCOS ★ 4 OYENTES ★ 
+              MAMÁ, SOY UNA SOMBRA ★ EN NOMBRE DE BAAL ★ BLACK METAL SINFÓNICO ★ BOGOTÁ ★ 1994—2026 ★ 6 DISCOS ★ 4 OYENTES ★ 
             </span>
           ))}
         </div>
@@ -39,7 +39,7 @@ export default function Nav() {
             <Link href="/" className="flex items-center gap-3 group">
               <img src="/logos/baal-blanco.png" alt="ENdB" className="h-8 w-auto group-hover:animate-shake" />
               <span className="text-bone font-black text-xs tracking-[0.3em] hidden sm:block heading-acid">
-                EN NOMBRE DE BAAL
+                MAMÁ, SOY UNA SOMBRA
               </span>
             </Link>
 

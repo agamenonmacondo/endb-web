@@ -1,7 +1,7 @@
 import { storyboard } from "@/data/storyboard";
 import type { Metadata } from "next";
 
-export const metadata: Metadata = { title: "Galería — En Nombre de Baal" };
+export const metadata: Metadata = { title: "Galería — Mamá, soy una sombra" };
 
 const borderColors = [
   "#E63946", "#FF006E", "#9B5DE5", "#00F5D4", "#FCCC04", "#FF6B35", "#BAFF29", "#00BBF9",

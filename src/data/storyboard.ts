@@ -204,7 +204,7 @@ export const storyboard: StoryboardFrame[] = [
     importance: 1,
     image: "/storyboard/endb_25_creditos_00001_.png",
     music: "Audio de ensayo — toma falsa + entrada de banda",
-    prompt: "BLACK SCREEN centered bone white text in Cinzel serif 'EN NOMBRE DE BAAL' with subtitle 'Un documental sobre Alejandro Sevilla Velez', minimal elegant typography on pure void black, faint BAAL logo watermark at 5% opacity",
+    prompt: "BLACK SCREEN centered bone white text in Cinzel serif 'MAMÁ, SOY UNA SOMBRA' with subtitle 'Un documental sobre Alejandro Sevilla Velez', minimal elegant typography on pure void black, faint BAAL logo watermark at 5% opacity",
   },
 ];
 

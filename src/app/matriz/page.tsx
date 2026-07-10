@@ -2,7 +2,7 @@ import { storyboard } from "@/data/storyboard";
 import { videos } from "@/data/videos";
 import type { Metadata } from "next";
 
-export const metadata: Metadata = { title: "Matriz — En Nombre de Baal" };
+export const metadata: Metadata = { title: "Matriz — Mamá, soy una sombra" };
 
 const matrix: Record<string, string[]> = {
   "01": ["Garage Bar 2024", "Revelent Hall 2024", "Tattoo Fest 2024", "Death to All 2024", "Storm Bar", "Soundtech"],
